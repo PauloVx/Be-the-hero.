@@ -28,7 +28,7 @@ module.exports =
 			email,
 			city,
 			uf
-		})
+		});
 
 		return response.json({id});
 	}
