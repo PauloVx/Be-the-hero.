@@ -5,11 +5,11 @@ Be the Hero é um projeto que ajuda ONGs a encontrarem pessoas que desejam contr
 ### Exemplos de requisições enviadas ao backend através do insomnia.
 
 #### Criação de uma nova ONG.
-##### Nesta rota é são enviados os dados para o cadastro de uma ONG e a API retorna o ID dessa ONG.
+##### Nesta rota são enviados os dados para o cadastro de uma ONG e a API retorna o ID dessa ONG.
 ![criaçaoong](https://user-images.githubusercontent.com/49623348/78280712-e4a13f80-74ef-11ea-9d25-6a030f69f00d.png)
 
 #### Criação de um novo caso para uma ONG.
-##### Nesta rota é são enviados os dados para o cadastro de um caso junto com o ID de uma ONG já existente e a API retorna o ID desse caso.
+##### Nesta rota são enviados os dados para o cadastro de um caso junto com o ID de uma ONG já existente e a API retorna o ID desse caso.
 ![criaçaoincidente](https://user-images.githubusercontent.com/49623348/78280730-e834c680-74ef-11ea-867d-2581094bb29c.png)
 
 ## Frontend web da aplicação desenvolvido em Javascript com ReactJs.
